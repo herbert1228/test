@@ -2,8 +2,13 @@ public class Student {
     String name;
     int age;
 
-    public void setAge(int age) {
-        this.age = age;
+    public Student(String aName, int anAge) {
+        this.name = aName;
+        this.age = anAge;
+    }
+
+    public String getName() {
+        return name;
     }
 
     public void setName(String name) {
@@ -14,16 +19,12 @@ public class Student {
         return age;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public Student(String aName, int anAge){
-        setAge(anAge);
-        setName(aName);
+    public void setAge(int age) {
+        this.age = age;
     }
 
     public String toString(){
-        return "Name = "+getName()+", age = "+getAge();
+        return "Name = " + name + ", age = " + age;
     }
+
 }
