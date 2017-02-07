@@ -2,148 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d95dc307-043c-48df-b279-7c443ddc5410" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/herbert.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/QuitButtonEx.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/code/FlappyBird.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/code/Renderer.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/201-units/mt201-unit01.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/201-units/mt201-unit02.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/201-units/mt201-unit03.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/201-units/mt201-unit04.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/201-units/mt201-unit05.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/201-units/mt201-unit06.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/201-units/mt201-unit07.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/201-units/mt201-unit08.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/201-units/mt201-unit09.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/201-units/mt201-unit10-2010.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/Quiz 2/Quiz.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/Quiz 2/Sample-Quiz 01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/Quiz 2/Sample-Quiz 02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/Quiz 2/Sample-Quiz 03.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/Quiz 2/run.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/SimpleArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/StudentSystem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/TestSimpleArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/TestStudentSystem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/comps202f-lecture/comps202f-ch00-java-part1.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/comps202f-lecture/comps202f-ch00-java-part2.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/comps202f-lecture/comps202f-ch00-java-part3.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/comps202f-lecture/comps202f-ch01-short.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/comps202f-lecture/comps202f-ch02-java-program.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/comps202f-lecture/comps202f-ch03-classes.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/comps202f-lecture/comps202f-ch04-control.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/comps202f-lecture/comps202f-ch04b-set-list.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/comps202f-lecture/comps202f-ch05-simple-array.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/comps202f-lecture/comps202f.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/doc/202f-lab03-err2-creditcard-v1.1.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/doc/202f-lab06-sample-quiz-v1.1.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/doc/202f-lab07-complex-num-v1.1.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/doc/202f-lab08-str-mat-score.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/doc/202f-lab10-collection-basics.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/doc/Q1_result.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/lab01/javaErrors.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/lab01/s1166551-lab01.doc.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/s1166551_lab02/lab02/s1166551-lab02.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/zip/lab10.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/zip/s1166551-lab03.zip.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/zip/s1166551-lab04.zip.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/zip/s1166551-lab07.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/zip/s1166551-lab09.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/zip/s1166551_lab05.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/新文字文件.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/201-units/mt201-unit01.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/201-units/mt201-unit02.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/201-units/mt201-unit03.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/201-units/mt201-unit04.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/201-units/mt201-unit05.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/201-units/mt201-unit06.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/201-units/mt201-unit07.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/201-units/mt201-unit08.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/201-units/mt201-unit09.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/201-units/mt201-unit10-2010.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Quiz 2/Quiz.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Quiz 2/Sample-Quiz 01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Quiz 2/Sample-Quiz 02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Quiz 2/Sample-Quiz 03.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Quiz 2/StringUtility2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Quiz 2/run.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/SimpleArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TestSimpleArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TestStudentSystem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/comps202f-lecture/comps202f-ch00-java-part1.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/comps202f-lecture/comps202f-ch00-java-part2.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/comps202f-lecture/comps202f-ch00-java-part3.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/comps202f-lecture/comps202f-ch01-short.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/comps202f-lecture/comps202f-ch02-java-program.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/comps202f-lecture/comps202f-ch03-classes.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/comps202f-lecture/comps202f-ch04-control.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/comps202f-lecture/comps202f-ch04b-set-list.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/comps202f-lecture/comps202f-ch05-simple-array.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/comps202f-lecture/comps202f.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/doc/202f-lab03-err2-creditcard-v1.1.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/doc/202f-lab06-sample-quiz-v1.1.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/doc/202f-lab07-complex-num-v1.1.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/doc/202f-lab08-str-mat-score.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/doc/202f-lab10-collection-basics.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/doc/Q1_result.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab01/HelloWorld.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab01/Q2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab01/Q2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab01/Q5a.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab01/Q5b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab01/Q5b.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab01/javaErrors.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab01/s1166551-lab01.doc.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab04/ScoreString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab04/ScoreString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab04/TestScoreString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab04/TestScoreString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab05/Account.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab05/Account.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab05/Employee.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab05/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab05/TestAccount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab05/TestAccount.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab05/TestEmployee.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab05/TestEmployee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab07/ComplexNum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab07/StudentName.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab07/TestComplexNum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab07/TestStudentName.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab08/StringMatrix.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab08/TestStringMatrix.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab09/IntegerGuess.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab09/SimpleLoop2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab09/TestIntegerGuess.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab09/TestSimpleLoop2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab10 2/CollectionTasks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab10 2/Company.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab10 2/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab10/CollectionTasks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab10/Company.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab10/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/s1166551-lab02/Customer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/s1166551-lab02/Customer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/s1166551-lab02/TestCustomer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/s1166551-lab02/TestCustomer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/s1166551-lab11.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/s1166551_lab02/lab02/s1166551-lab02.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/s1166551_lab02/lab02/square.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/zip/Computer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/zip/lab10.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/zip/s1166551-lab03.zip.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/zip/s1166551-lab04.zip.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/zip/s1166551-lab07.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/zip/s1166551-lab09.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/zip/s1166551_lab05.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/新文字文件.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Idea/Student.class" afterPath="$PROJECT_DIR$/out/production/Idea/Student.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Idea/TestStudent.class" afterPath="$PROJECT_DIR$/out/production/Idea/TestStudent.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Student.java" afterPath="$PROJECT_DIR$/src/Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StudentSystem.java" afterPath="$PROJECT_DIR$/src/StudentSystem.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TestStudent.java" afterPath="$PROJECT_DIR$/src/TestStudent.java" />
     </list>
     <ignored path="Idea.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -173,13 +32,13 @@
         <entry file="file://$PROJECT_DIR$/src/code/FlappyBird.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="370">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1101#1102#0" expanded="true" />
-                <element signature="e#1146#1147#0" expanded="true" />
-                <element signature="e#1209#1210#0" expanded="true" />
-                <element signature="e#1243#1244#0" expanded="true" />
+                <element signature="e#1107#1108#0" expanded="true" />
+                <element signature="e#1152#1153#0" expanded="true" />
+                <element signature="e#1216#1217#0" expanded="true" />
+                <element signature="e#1250#1251#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -188,8 +47,8 @@
       <file leaf-file-name="Renderer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/code/Renderer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state relative-caret-position="189">
+              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -220,8 +79,8 @@
       <file leaf-file-name="QuitButtonEx.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/QuitButtonEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="469">
+              <caret line="48" column="44" lean-forward="true" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -945,12 +804,20 @@
       <updated>1479994697404</updated>
       <workItem from="1486403650417" duration="22000" />
       <workItem from="1486403688645" duration="663000" />
-      <workItem from="1486427341440" duration="7626000" />
+      <workItem from="1486427341440" duration="7789000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1486452117324</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1486452117324</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8311000" />
+    <option name="totallyTimeSpent" value="8474000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1033,9 +900,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
-  <component name="UpdateCopyrightCheckinHandler">
-    <option name="UPDATE_COPYRIGHT" value="true" />
-  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -1050,7 +914,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1215,8 +1081,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/code/Renderer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="189">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -1274,21 +1140,21 @@
     <entry file="file://$PROJECT_DIR$/src/code/FlappyBird.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1101#1102#0" expanded="true" />
-            <element signature="e#1146#1147#0" expanded="true" />
-            <element signature="e#1209#1210#0" expanded="true" />
-            <element signature="e#1243#1244#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+            <element signature="e#1250#1251#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/QuitButtonEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="469">
+          <caret line="48" column="44" lean-forward="true" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
