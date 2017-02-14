@@ -1,30 +1,29 @@
 public class Student {
-    String name;
-    int age;
+    private String name;
+    private int age;
 
     public Student(String aName, int anAge) {
-        this.name = aName;
-        this.age = anAge;
+        setName(aName);
+        age = anAge;
+    }
+
+    public void setName(String aName) {
+        name = aName;
     }
 
     public String getName() {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setAge(int anAge) {
+        age = anAge;
     }
 
     public int getAge() {
         return age;
     }
 
-    public void setAge(int age) {
-        this.age = age;
+    public String toString() {
+        return getName() + ", " + getAge();
     }
-
-    public String toString(){
-        return "Name = " + name + ", age = " + age;
-    }
-
 }
