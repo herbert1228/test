@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d95dc307-043c-48df-b279-7c443ddc5410" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StudentGUI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tinFlappyBird/FlappyBird.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tinFlappyBird/horse.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Idea/TestStudent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QuitButtonEx.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TestStudent.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Idea/Company.class" afterPath="$PROJECT_DIR$/out/production/Idea/Company.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Idea/ComplexNum.class" afterPath="$PROJECT_DIR$/out/production/Idea/ComplexNum.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Idea/Q5b.class" afterPath="$PROJECT_DIR$/out/production/Idea/Q5b.class" />
@@ -22,10 +15,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Idea/s1166551_lab02/lab02/square.class" afterPath="$PROJECT_DIR$/out/production/Idea/s1166551_lab02/lab02/square.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Idea/zip/Computer.class" afterPath="$PROJECT_DIR$/out/production/Idea/zip/Computer.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Student.java" afterPath="$PROJECT_DIR$/src/Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StudentSystem.java" afterPath="$PROJECT_DIR$/src/StudentSystem.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/code/FlappyBird.java" afterPath="$PROJECT_DIR$/src/code/FlappyBird.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/code/Renderer.java" afterPath="$PROJECT_DIR$/src/code/Renderer.java" />
     </list>
     <ignored path="Idea.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,12 +57,12 @@
       <file leaf-file-name="StudentGUI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StudentGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1953">
-              <caret line="98" column="57" lean-forward="false" selection-start-line="98" selection-start-column="57" selection-end-line="98" selection-end-column="57" />
+            <state relative-caret-position="1932">
+              <caret line="97" column="57" lean-forward="false" selection-start-line="97" selection-start-column="57" selection-end-line="97" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="false" />
-                <element signature="e#872#873#0" expanded="false" />
-                <element signature="e#928#929#0" expanded="false" />
+                <element signature="e#873#874#0" expanded="false" />
+                <element signature="e#929#930#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -91,39 +80,39 @@
                 <element signature="method#reset#0;class#Simulation#0" expanded="false" />
                 <element signature="method#keyReleased#0;class#Simulation#0" expanded="false" />
                 <element signature="method#keyTyped#0;class#Simulation#0" expanded="false" />
-                <element signature="e#2650#2651#0" expanded="false" />
-                <element signature="e#2694#2695#0" expanded="false" />
+                <element signature="e#2643#2644#0" expanded="false" />
+                <element signature="e#2687#2688#0" expanded="false" />
                 <element signature="method#Entity#0;class#Entity#0" expanded="false" />
                 <element signature="method#physicsUpdate#0;class#Entity#0" expanded="false" />
                 <element signature="method#collideWith#0;class#Entity#0" expanded="false" />
-                <element signature="e#3615#3616#0" expanded="false" />
-                <element signature="e#3648#3649#0" expanded="false" />
-                <element signature="e#3677#3678#0" expanded="false" />
-                <element signature="e#3710#3711#0" expanded="false" />
-                <element signature="e#3742#3743#0" expanded="false" />
-                <element signature="e#3784#3785#0" expanded="false" />
-                <element signature="e#3814#3815#0" expanded="false" />
-                <element signature="e#3847#3848#0" expanded="false" />
-                <element signature="e#3878#3879#0" expanded="false" />
-                <element signature="e#3920#3921#0" expanded="false" />
+                <element signature="e#3603#3604#0" expanded="false" />
+                <element signature="e#3636#3637#0" expanded="false" />
+                <element signature="e#3664#3665#0" expanded="false" />
+                <element signature="e#3697#3698#0" expanded="false" />
+                <element signature="e#3728#3729#0" expanded="false" />
+                <element signature="e#3770#3771#0" expanded="false" />
+                <element signature="e#3799#3800#0" expanded="false" />
+                <element signature="e#3832#3833#0" expanded="false" />
+                <element signature="e#3862#3863#0" expanded="false" />
+                <element signature="e#3904#3905#0" expanded="false" />
                 <element signature="method#keyPressed#0;class#Entity#0" expanded="false" />
                 <element signature="method#keyReleased#0;class#Entity#0" expanded="false" />
                 <element signature="method#keyTyped#0;class#Entity#0" expanded="false" />
                 <element signature="class#Vec2#0" expanded="false" />
-                <element signature="e#4212#4213#0" expanded="false" />
-                <element signature="e#4238#4239#0" expanded="false" />
+                <element signature="e#4192#4193#0" expanded="false" />
+                <element signature="e#4218#4219#0" expanded="false" />
                 <element signature="method#Vec2#1;class#Vec2#0" expanded="false" />
-                <element signature="e#4360#4361#0" expanded="false" />
-                <element signature="e#4427#4428#0" expanded="false" />
-                <element signature="e#4466#4467#0" expanded="false" />
-                <element signature="e#4531#4532#0" expanded="false" />
-                <element signature="e#4564#4565#0" expanded="false" />
-                <element signature="e#4611#4612#0" expanded="false" />
+                <element signature="e#4338#4339#0" expanded="false" />
+                <element signature="e#4405#4406#0" expanded="false" />
+                <element signature="e#4443#4444#0" expanded="false" />
+                <element signature="e#4508#4509#0" expanded="false" />
+                <element signature="e#4540#4541#0" expanded="false" />
+                <element signature="e#4587#4588#0" expanded="false" />
                 <element signature="class#Pipe#0" expanded="false" />
                 <element signature="method#randomPipe#0;class#Pipe#0" expanded="false" />
                 <element signature="method#Pipe#0;class#Pipe#0" expanded="false" />
-                <element signature="e#6611#6612#0" expanded="false" />
-                <element signature="e#6644#6645#0" expanded="false" />
+                <element signature="e#6581#6582#0" expanded="false" />
+                <element signature="e#6614#6615#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -933,7 +922,7 @@
       <workItem from="1486427341440" duration="20528000" />
       <workItem from="1486612480510" duration="10427000" />
       <workItem from="1486636960430" duration="3659000" />
-      <workItem from="1487055466926" duration="177000" />
+      <workItem from="1487055466926" duration="200000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1486452117324</created>
@@ -949,11 +938,18 @@
       <option name="project" value="LOCAL" />
       <updated>1486452246053</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <created>1487055663348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1487055663348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35476000" />
+    <option name="totallyTimeSpent" value="35499000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1281,6 +1277,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1288,6 +1285,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
           <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1300,12 +1298,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StudentGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1953">
-          <caret line="98" column="57" lean-forward="false" selection-start-line="98" selection-start-column="57" selection-end-line="98" selection-end-column="57" />
+        <state relative-caret-position="1932">
+          <caret line="97" column="57" lean-forward="false" selection-start-line="97" selection-start-column="57" selection-end-line="97" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#872#873#0" expanded="false" />
-            <element signature="e#928#929#0" expanded="false" />
+            <element signature="e#873#874#0" expanded="false" />
+            <element signature="e#929#930#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1363,39 +1361,39 @@
             <element signature="method#reset#0;class#Simulation#0" expanded="false" />
             <element signature="method#keyReleased#0;class#Simulation#0" expanded="false" />
             <element signature="method#keyTyped#0;class#Simulation#0" expanded="false" />
-            <element signature="e#2650#2651#0" expanded="false" />
-            <element signature="e#2694#2695#0" expanded="false" />
+            <element signature="e#2643#2644#0" expanded="false" />
+            <element signature="e#2687#2688#0" expanded="false" />
             <element signature="method#Entity#0;class#Entity#0" expanded="false" />
             <element signature="method#physicsUpdate#0;class#Entity#0" expanded="false" />
             <element signature="method#collideWith#0;class#Entity#0" expanded="false" />
-            <element signature="e#3615#3616#0" expanded="false" />
-            <element signature="e#3648#3649#0" expanded="false" />
-            <element signature="e#3677#3678#0" expanded="false" />
-            <element signature="e#3710#3711#0" expanded="false" />
-            <element signature="e#3742#3743#0" expanded="false" />
-            <element signature="e#3784#3785#0" expanded="false" />
-            <element signature="e#3814#3815#0" expanded="false" />
-            <element signature="e#3847#3848#0" expanded="false" />
-            <element signature="e#3878#3879#0" expanded="false" />
-            <element signature="e#3920#3921#0" expanded="false" />
+            <element signature="e#3603#3604#0" expanded="false" />
+            <element signature="e#3636#3637#0" expanded="false" />
+            <element signature="e#3664#3665#0" expanded="false" />
+            <element signature="e#3697#3698#0" expanded="false" />
+            <element signature="e#3728#3729#0" expanded="false" />
+            <element signature="e#3770#3771#0" expanded="false" />
+            <element signature="e#3799#3800#0" expanded="false" />
+            <element signature="e#3832#3833#0" expanded="false" />
+            <element signature="e#3862#3863#0" expanded="false" />
+            <element signature="e#3904#3905#0" expanded="false" />
             <element signature="method#keyPressed#0;class#Entity#0" expanded="false" />
             <element signature="method#keyReleased#0;class#Entity#0" expanded="false" />
             <element signature="method#keyTyped#0;class#Entity#0" expanded="false" />
             <element signature="class#Vec2#0" expanded="false" />
-            <element signature="e#4212#4213#0" expanded="false" />
-            <element signature="e#4238#4239#0" expanded="false" />
+            <element signature="e#4192#4193#0" expanded="false" />
+            <element signature="e#4218#4219#0" expanded="false" />
             <element signature="method#Vec2#1;class#Vec2#0" expanded="false" />
-            <element signature="e#4360#4361#0" expanded="false" />
-            <element signature="e#4427#4428#0" expanded="false" />
-            <element signature="e#4466#4467#0" expanded="false" />
-            <element signature="e#4531#4532#0" expanded="false" />
-            <element signature="e#4564#4565#0" expanded="false" />
-            <element signature="e#4611#4612#0" expanded="false" />
+            <element signature="e#4338#4339#0" expanded="false" />
+            <element signature="e#4405#4406#0" expanded="false" />
+            <element signature="e#4443#4444#0" expanded="false" />
+            <element signature="e#4508#4509#0" expanded="false" />
+            <element signature="e#4540#4541#0" expanded="false" />
+            <element signature="e#4587#4588#0" expanded="false" />
             <element signature="class#Pipe#0" expanded="false" />
             <element signature="method#randomPipe#0;class#Pipe#0" expanded="false" />
             <element signature="method#Pipe#0;class#Pipe#0" expanded="false" />
-            <element signature="e#6611#6612#0" expanded="false" />
-            <element signature="e#6644#6645#0" expanded="false" />
+            <element signature="e#6581#6582#0" expanded="false" />
+            <element signature="e#6614#6615#0" expanded="false" />
           </folding>
         </state>
       </provider>
