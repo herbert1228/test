@@ -1,2 +1,6 @@
 .DS_Store
 *.swp
+/out
+.ideagit
+.idea/workspace.xml
+.idea/misc.xml
