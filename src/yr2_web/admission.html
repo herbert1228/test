@@ -4,33 +4,13 @@
     <meta charset="utf-8">
     <title>United Christian College</title>
     <link rel="stylesheet" type="text/css" href="cssIndex.css">
+    <link rel="stylesheet" type="text/css" href="cssPages.css">
     <link href="font/css/font-awesome.min.css" rel="stylesheet" media="all">
     <!--<link href="hover.css" rel="stylesheet" media="all">-->
-    <script type="text/javascript">
-        function displayNextImage() {
-            x = (x === images.length - 1) ? 0 : x + 1;
-            document.getElementById("img").src = images[x];
-        }
-
-        function displayPreviousImage() {
-            x = (x <= 0) ? images.length - 1 : x - 1;
-            document.getElementById("img").src = images[x];
-        }
-
-        function startTimer() {
-            setInterval(displayNextImage, 4000);
-        }
-
-        var images = [], x = -1;
-        images[0] = "images/Okinawa.jpg";
-        images[1] = "images/sportsDay.jpg";
-        images[2] = "images/Okinawa2.jpg";
-        images[3] = "images/studentUnion.JPG";
-    </script>
 </head>
 
-<body onload="startTimer()">
-<div id="wrapper" style="overflow: hidden">
+<body>
+<div id="wrapper">
 
     <div id="header">
         <div id="headerBar">
@@ -62,42 +42,42 @@
                         <li><a class="headerButton hvr-icon-hang" href="contactUs.html">聯絡我們</a></li>
                     </ul>
                 </div>
-                </div>
-            </nav>
-        </div>
+            </div>
+        </nav>
+    </div>
 
     <div id="content">
-        <img id="img" width="100%" style="position: relative" src="images/studentUnion.JPG"/>
-        <div style="position: absolute">
-
+        <img id="img" width="100%" height="220" style="position: relative" src="images/background.jpg"/>
+        <div id="contentArea">
+            <div id="contentAreaBox">
+                <div id="contentAreaBoxLeft">
+                    <div id="contentAreaBoxLeftTable">
+                        <ul id="contentAreaBoxLeftTableList">
+                            <li><p style="color: #379f45; font-weight: bolder; font-size: medium; float: right">申請入學</p>
+                            </li>
+                            <li><a href="#" class="contentAreaBoxLeftTableButtonCurrent">something</a></li>
+                            <li><a href="#" class="contentAreaBoxLeftTableButton">something</a></li>
+                            <li><a href="#" class="contentAreaBoxLeftTableButton">something</a></li>
+                            <li><a href="#" class="contentAreaBoxLeftTableButton">something</a></li>
+                            <li><a href="#" class="contentAreaBoxLeftTableButton">something</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="contentAreaBoxRight">
+                    <div id="contentAreaBoxRightTitle">
+                        <p>Something</p>
+                    </div>
+                    <div id="contentAreaBoxRightForm">
+                        <p>Add things here</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
-    <div id="footer">
-        <div id="footerNews">
-            <div id="footerNewsContent">
-                <div class="footerNewsTitle">匯基新聞</div>
-                <div id="footerNewsContent1">
-                    <a class="footerNewsContentLink" href="http://ucc.edu.hk/showfrontpage.asp?id=1163">1617全方位學習周(10-12/4/2017)</a>
-                    <a class="footerNewsContentLink" href="http://ucc.edu.hk/showfrontpage.asp?id=1160">「麥兜‧豬肉在前」香港撒瑪利亞防止自殺會慈善跑</a>
-                    <a class="footerNewsContentLink" href="http://ucc.edu.hk/showfrontpage.asp?id=1159">參觀教大體育系</a>
-                    <a class="footerNewsContentLink" href="http://ucc.edu.hk/showfrontpage.asp?id=1157">訪問報導:男生讀STEM科為女生3倍,女生能力不足還是性別定型？</a>
-                    <a class="footerNewsContentLink" href="http://ucc.edu.hk/showfrontpage.asp?id=1156">滙基創新科技周.STEM
-                        Week</a>
-                </div>
-                <div id="footerNewsContentButton">
-                    <button class="hvr-icon-back invisibleButton" style="margin-top: 10px">左一頁</button>
-                    <button class="hvr-icon-forward invisibleButton" style="margin-top: 10px;float:right">右一頁</button>
-                </div>
-                <div class="footerNewsTitle">學校通告</div>
-                <div id="footerNewsContent2">
-                    <a class="footerNewsContentLink" href="http://ucc.edu.hk/shownotice.asp?course_id=M003&id=3069">有關惡劣天氣事宜</a>
-                    <a class="footerNewsContentLink" href="http://ucc.edu.hk/shownotice.asp?course_id=M003&id=3066">中一至中五級『家長日』通告</a>
-                    <a class="footerNewsContentLink" href="http://ucc.edu.hk/shownotice.asp?course_id=M003&id=3063">全方位學習周事宜</a>
-                    <a class="footerNewsContentLink" href="http://ucc.edu.hk/shownotice.asp?course_id=M003&id=3057">下學期測驗周事宜</a>
-                    <a class="footerNewsContentLink" href="http://ucc.edu.hk/shownotice.asp?course_id=M003&id=3055">有關中六同學畢業事宜</a>
-                </div>
-            </div>
+    <div id="footer" style="position: absolute;bottom: 60px">
+        <div id="footerNews" style="background-color: transparent">
+
         </div>
         <div id="footer1">
             <div id="footer1Box">

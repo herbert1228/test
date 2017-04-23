@@ -1,0 +1,84 @@
+body {
+    background-color: #eaeaea;
+
+}
+
+#contentArea {
+    width: 100%;
+    height: 550px;
+    position: absolute;
+    top: 280px;
+    /*background-color: #e2e2e2;*/
+}
+
+#contentAreaBox {
+    width: 870px;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#contentAreaBoxLeft {
+    width: 20%;
+    float: left;
+    height: 550px;
+    margin-top: 40px;
+}
+
+#contentAreaBoxRight {
+    width: 80%;
+    float: right;
+    height: 550px;
+    background-color: white;
+    box-shadow: 0px -3px 12px rgba(0, 0, 0, 0.2);
+    border-width: 0px;
+    border-color: transparent;
+}
+
+#contentAreaBoxRightTitle {
+    font-size: 125%;
+    font-weight: bolder;
+    color: #F26137;
+    margin-left: 33px;
+    margin-top: 15px;
+    height: 33px;
+}
+
+#contentAreaBoxRightForm {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    width: 625px;
+    height: 480px;
+    font-size: 80%;
+}
+
+#contentAreaBoxLeftTable {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    height: 200px;
+    margin-top: 22px;
+    margin-right: 30px;
+}
+
+#contentAreaBoxLeftTableList {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    height: 100%;
+    font-size: xx-small;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.contentAreaBoxLeftTableButton {
+    float: right;
+    color: #2e2e2e;
+}
+
+.contentAreaBoxLeftTableButtonCurrent {
+    float: right;
+    color: #379F45;
+}
