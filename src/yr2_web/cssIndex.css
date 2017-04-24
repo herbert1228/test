@@ -21,7 +21,7 @@ a {
     /* 位置設為relative, 作為footer區塊位置的參考 */
     position: relative;
     height: auto;
-    max-height: 100%;
+    /*max-height: 100%;*/
     margin: 0;
     padding: 0;
     /*overflow: hidden;*/
@@ -51,7 +51,7 @@ a {
 }
 
 #headerBarBox {
-    width: 970px;
+    width: 1200px;
     height: 32px;
     margin-left: auto;
     margin-right: auto;
@@ -63,7 +63,7 @@ a {
     justify-content: space-around;
     margin-top: 11px;
     font-size: x-small;
-    width: 150px;
+    width: 250px;
     float: right;
 }
 
@@ -120,19 +120,42 @@ a {
 }
 
 #footer {
-    height: 250px;
-    width: 100%;
-    box-sizing: border-box;
-    position: absolute;
-    bottom: 250px;
-}
+     height: 0;
+     width: 100%;
+     box-sizing: border-box;
+     position: absolute;
+     bottom: -250px;
+ }
 
 #footerNews {
-    height: 260px;
+    height: 0;
     width: 960px;
     background-color: white;
     margin-left: auto;
     margin-right: auto;
+}
+
+#footerIndex {
+    height: 250px;
+    width: 100%;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 230px;
+}
+
+#footerNewsIndex {
+    height: 250px;
+    width: 960px;
+    background-color: rgba(255,255,255,0.8);
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.footerNewsIndex{
+    box-shadow: 0px -5px 15px rgba(0, 0, 0, 0.35);
+    border-width: 0px;
+    border-color: transparent;
 }
 
 .footerNewsTitle {
